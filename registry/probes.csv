@@ -1,0 +1,6 @@
+probe_id,zone,label,target_c,tolerance_c,display_rank
+P-101,Freezer East,Crate aisle,-18.0,2.0,2
+P-102,Vaccine Locker,Upper shelf,4.0,1.5,1
+P-103,Floral Cooler,Door bay,8.0,2.5,4
+P-104,Dairy Room,Return rack,3.0,1.0,3
+P-105,Prep Cooler,Produce bench,10.0,3.0,5
