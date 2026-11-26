@@ -1,0 +1,4 @@
+Frostline monitoring export
+Cutoff: 2102-01-12T18:00:00Z
+Battery replacement threshold: below 20 percent.
+Evidence sealed by facilities operations.
