@@ -1,0 +1,6 @@
+probe_id,zone,label,target_c,tolerance_c,observed_at,temp_c,delta_c,battery_pct,reading_no,status
+P-102,Vaccine Locker,Upper shelf,4.0,1.5,2102-01-12T17:00:00Z,6.0,2.0,80,11,ALERT
+P-101,Freezer East,Crate aisle,-18.0,2.0,2102-01-12T16:00:00Z,-20.0,-2.0,77,2,WATCH
+P-104,Dairy Room,Return rack,3.0,1.0,,,,,,NO_DATA
+P-103,Floral Cooler,Door bay,8.0,2.5,2102-01-12T17:30:00Z,8.5,0.5,15,21,REPLACE
+P-105,Prep Cooler,Produce bench,10.0,3.0,2102-01-12T15:00:00Z,10.5,0.5,45,32,OK
